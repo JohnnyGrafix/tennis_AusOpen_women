@@ -1,0 +1,63 @@
+title: Australian Open: women to watch
+subhead: Players who could win their first major 
+
+[tabs]
+image: AustOpen_women_1-01.png
+props.name: Halep
+props.title: Simona Halep
+props.age: Age: 26
+props.country: Romania
+props.rank: Rank: 1  
+props.description: Four titles in 2017, including his first Masters crown in  Cincinnati
+props.description2: Never been beyond the semi-finals of a Grand Slam 
+props.color: #2F5E23
+
+image: AustOpen_women_2-01.png
+props.name: Wozniacki
+props.title: Caroline Wozniacki
+props.age: Age: 27
+props.country: Denmark
+props.rank: Rank: 2 
+props.description: One of just four men to  beat Roger Federer in 2017
+props.description2: Five titles in 2017,  and reached fourth round at Wimbledon
+props.color: #2F5E23
+
+
+image: AustOpen_women_3-01.png
+props.name: Svitolina
+props.title: Elina Svitolina
+props.age: Age: 23
+props.country: Ukraine
+props.rank: Rank: 4 
+props.description: Won in Rio de Janeiro in 2017
+props.description2: Reached semi-finals at Roland Garros in 2016 and 2017
+props.color: #2F5E23
+
+image: AustOpen_women_4-01.png
+props.name: Pliskova 
+props.title: Karolina Pliskova
+props.age: Age: 25
+props.country: Czec Republic
+props.rank: Rank: 6 
+props.description: Won the Brisbane International on Jan 7, 2018
+props.description2: Has two career wins over Rafael Nadal
+props.color: #2F5E23
+
+
+image: AustOpen_women_5-01.png
+props.name: Konta
+props.title: Johanna Konta
+props.age: Age: 26
+props.country: Britain
+props.rank: Rank: 9 
+props.description: Won his first ATP World Tour title in 2017 (Umag)
+props.description2: Youngest US Open quarter-finalist last year since Andy Roddick
+props.color: #2F5E23
+
+[]
+
+sources: Source: ATP
+
+lastUpdate.key: Last update:
+lastUpdate.value: 01/09/2018 22:00:00 (HK)
+lang: en

@@ -1,0 +1,15 @@
+
+
+Notes: 
+
+1 Sources for bios uploaded in text file to the repository. leaderNotes.txt
+2 AI file uploaded to assets directory. Leaders.ai
+
+
+
+Issues
+
+1 Sizing the ul to fit smartphone display. (currently right side disappears when screeen too narro)
+
+2 props.description -- how to create two? Or how to add a new text section. How to format if needing to change lines. Need to show position (eg Chairman) and then description
+
