@@ -18,7 +18,7 @@ ul li {
 }
 nav ul li {
   flex-wrap: wrap;
-  width: 55px;
+  width: 80px;
   margin: 2px 2px 15px 2px;
   text-align: center;
   cursor: pointer;
